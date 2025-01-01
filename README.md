@@ -9,9 +9,9 @@ FizzBuzz is a basic programming exercise often used to teach beginners. The rule
 - Print numbers from 1 to `n`.
 - (BONUS) If a number is divisible by `2`, print *"Fudge*" instead of the number.
 - If a number is divisible by `3`, print *"Fizz*" instead of the number.
-- If a number is divisible by both `2` and `3`, print *"FudgeFizz*" instead.
+- (BONUS) If a number is divisible by both `2` and `3`, print *"FudgeFizz*" instead.
 - If a number is divisible by `5`, print *"Buzz*" instead of the number.
-- If a number is divisible by both `2` and `5`, print *"FudgeBuzz*" instead.
+- (BONUS) If a number is divisible by both `2` and `5`, print *"FudgeBuzz*" instead.
 - If a number is divisible by both `3` and `5`, print *"FizzBuzz*" instead.
 - (BONUS) If a number is divisible by `2`, `3` and `5`, print *"FudgeFizzBuzz*" instead.
 
